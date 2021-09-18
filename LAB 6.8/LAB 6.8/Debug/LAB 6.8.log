@@ -1,0 +1,11 @@
+﻿  convertmoney.cpp
+c:\users\purpl\desktop\fall2018\cs\lab\ch6\lab 6.8\lab 6.8\convertmoney.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\purpl\desktop\fall2018\cs\lab\ch6\lab 6.8\lab 6.8\convertmoney.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\purpl\desktop\fall2018\cs\lab\ch6\lab 6.8\lab 6.8\convertmoney.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\purpl\desktop\fall2018\cs\lab\ch6\lab 6.8\lab 6.8\convertmoney.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\purpl\desktop\fall2018\cs\lab\ch6\lab 6.8\lab 6.8\convertmoney.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\purpl\desktop\fall2018\cs\lab\ch6\lab 6.8\lab 6.8\convertmoney.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\purpl\desktop\fall2018\cs\lab\ch6\lab 6.8\lab 6.8\convertmoney.cpp(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\purpl\desktop\fall2018\cs\lab\ch6\lab 6.8\lab 6.8\convertmoney.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LAB 6.8.vcxproj -> C:\Users\purpl\Desktop\Fall2018\CS\LAB\ch6\LAB 6.8\Debug\LAB 6.8.exe
+  LAB 6.8.vcxproj -> C:\Users\purpl\Desktop\Fall2018\CS\LAB\ch6\LAB 6.8\Debug\LAB 6.8.pdb (Full PDB)
