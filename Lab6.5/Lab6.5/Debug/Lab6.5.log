@@ -1,0 +1,5 @@
+﻿  scope.cpp
+c:\users\purpl\desktop\fall2018\cs\lab\chapter5\lab6.5\lab6.5\scope.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\purpl\desktop\fall2018\cs\lab\chapter5\lab6.5\lab6.5\scope.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab6.5.vcxproj -> C:\Users\purpl\Desktop\Fall2018\CS\LAB\chapter5\Lab6.5\Debug\Lab6.5.exe
+  Lab6.5.vcxproj -> C:\Users\purpl\Desktop\Fall2018\CS\LAB\chapter5\Lab6.5\Debug\Lab6.5.pdb (Full PDB)
