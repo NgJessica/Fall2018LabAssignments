@@ -1,0 +1,4 @@
+﻿  money.cpp
+c:\users\purpl\desktop\fall2018\cs\lab\chapter5\lab6.6\lab6.6\money.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LAB6.6.vcxproj -> C:\Users\purpl\Desktop\Fall2018\CS\LAB\chapter5\LAB6.6\Debug\LAB6.6.exe
+  LAB6.6.vcxproj -> C:\Users\purpl\Desktop\Fall2018\CS\LAB\chapter5\LAB6.6\Debug\LAB6.6.pdb (Full PDB)
